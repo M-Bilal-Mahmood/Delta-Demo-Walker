@@ -1,2 +1,2 @@
 # Delta-Demo-Walker
-This is a demo for git and github class
+This is Demo for Git & Github
